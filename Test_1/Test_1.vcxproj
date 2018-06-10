@@ -18,6 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Chapter7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Person.h" />
+    <ClInclude Include="..\Sales_data.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{0B3175D3-C6BD-463A-ADFE-77BC490E392C}</ProjectGuid>
@@ -110,13 +117,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Chapter7.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Person.h" />
-    <ClInclude Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Sales_data.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

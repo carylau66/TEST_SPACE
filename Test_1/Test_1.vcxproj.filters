@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Chapter7.cpp">
+    <ClCompile Include="..\Chapter7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Person.h">
+    <ClInclude Include="..\Person.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\..\TEST_SPACE\TEST_SPACE\Sales_data.h">
+    <ClInclude Include="..\Sales_data.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
