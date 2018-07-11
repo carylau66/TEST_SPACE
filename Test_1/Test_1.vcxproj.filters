@@ -18,6 +18,9 @@
     <ClCompile Include="..\Chapter7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\Sales_data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Person.h">
