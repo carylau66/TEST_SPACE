@@ -20,11 +20,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Chapter7.cpp" />
+    <ClCompile Include="..\person.cpp" />
     <ClCompile Include="..\Sales_data.cpp" />
+    <ClCompile Include="..\window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Person.h" />
+    <ClInclude Include="..\person.h" />
     <ClInclude Include="..\Sales_data.h" />
+    <ClInclude Include="..\window.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
